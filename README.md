@@ -1,2 +1,46 @@
-# obsidian-event-horizon
-A deep-space, high-contrast Obsidian theme built around quantum states, cosmic contrast, and distraction-free workspace states.
+# Event Horizon for Obsidian
+
+![Event Horizon Banner](https://raw.githubusercontent.com/nachiket273/obsidian-event-horizon/main/assets/banner.png)
+
+**Event Horizon** is a high-contrast, deep-space dark theme engineered for research, writing, and complex knowledge graphing. Built around dark energy palettes, spectral line highlights, and distraction-free focus modes, it turns your Obsidian vault into an interactive star system.
+
+---
+
+## 📸 Visual Overview
+
+### Cosmic Constellation Graph View
+Graph nodes render with high-luminance glowing cores, cyan active connection vectors, and distinct violet fills for unresolved nodes.
+
+![Event Horizon Graph View](https://raw.githubusercontent.com/nachiket273/obsidian-event-horizon/main/screenshot.png)
+
+### Semantic Cosmic Callouts & LaTeX Support
+Pre-built semantic callouts (`[!singularity]`, `[!observation]`, `[!hypothesis]`, `[!quantum]`) featuring spectral aura glows alongside crisp MathJax/KaTeX display equation framing.
+
+![Event Horizon Callouts & LaTeX](https://raw.githubusercontent.com/nachiket273/obsidian-event-horizon/main/callout.png)
+
+---
+
+## ✨ Key Features
+
+- 🌌 **Deep Space Palette:** Pure void blacks (`#0b0d12`) combined with nebular slate workspace tiles to reduce eye strain during extended work sessions.
+- 💫 **Graph View Constellation Map:** Graph nodes render with high-luminance glowing cores, cyan active connection vectors, and violet unresolved links.
+- 🧘 **Zen Focus Mode:** Sidebar controls, ribbons, and header clutter auto-fade while active typing is detected, keeping your editor isolated like a quiet void.
+- 🌌 **Cosmic Callouts:** Pre-built semantic callout blocks for `[!observation]`, `[!hypothesis]`, `[!singularity]`, and `[!quantum]`.
+- 📐 **Enhanced LaTeX & Math Styling:** Formatted MathJax/KaTeX display equations featuring glowing left accent borders and subtle void framing.
+
+---
+
+## 🎨 Cosmic Callout Syntax
+
+```markdown
+> [!observation] Spectral Shift
+> Observed redshift across the outward node cluster.
+
+> [!hypothesis] Energy Coupling
+> Entanglement entropy scales linearly with horizon boundary area.
+
+> [!singularity] Irreversible Collapse
+> Core notes beyond this line become dense knowledge primitives.
+
+> [!quantum] Superposition
+> This state holds multiple contradictory interpretations simultaneously.
