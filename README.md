@@ -1,6 +1,6 @@
 # Event Horizon for Obsidian
 
-[![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&logoColor=00f0ff&color=a855f7&label=downloads&query=%24%5B%27Event%20Horizon%27%5D.download&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-css-theme-stats.json)](https://community.obsidian.md/themes/event-horizon)
+[![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&logoColor=00f0ff&color=a855f7&label=downloads&query=%24%5B%27event-horizon%27%5D.download&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-css-theme-stats.json)](https://community.obsidian.md/themes/event-horizon)
 
 [**Install Event Horizon from the Community Themes**](https://community.obsidian.md/themes/event-horizon)
 
